@@ -4,7 +4,7 @@ Supporting materials used in our experiment. Note that a more detailed descripti
 The research is published in Computers & Security. Please check here for more informations: **TODO**
 
 The repository consists of the following files: 
-![#1589F0](https://www.iconsdb.com/icons/download/color/1589F0/circle-16.png) **Informed_consent.pdf** -> informations to the participants in the experiment. 
+![#1589F0](-) **Informed_consent.pdf** -> informations to the participants in the experiment. 
 - **Scenario.pdf** -> the scenario in which participants made their decisions. 
 - **data_c_en.pdf** -> data received by the control group. 
 - **data_t_en.pdf** -> data received by the experimental group. 
