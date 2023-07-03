@@ -1,7 +1,7 @@
 # Balancing-software-and-training-requirements-for-information-security
-Supporting materials used in our experiment. 
+Supporting materials used in our experiment. Note that a more detailed description of the research methodology and approach is included in the research paper. This repository contains only the supporting materials used in our research.
 
-The research is published in Computers & Security. Please see: **TODO**
+The research is published in Computers & Security. Please check here for more informations: **TODO**
 
 The repository consists of the following files: 
 - **Informed_consent.pdf** -> informations to the participants in the experiment. 
