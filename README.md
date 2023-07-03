@@ -8,7 +8,7 @@ The research is published in Computers & Security. Please check here for more in
 
 The repository consists of the following file/folder:
 
-### [Readme](README.md) file
+### [Readme](README.md) file 📜
 Info. about the repository.
 
 ### [Materials](Materials) folder 📁
