@@ -11,7 +11,7 @@ The repository consists of the following file/folder:
 ### Readme file
 Info. about the repository.
 
-### "Material" folder 📁
+### [Materials](Materials) folder 📁
 
 Here you can find the following:
 
