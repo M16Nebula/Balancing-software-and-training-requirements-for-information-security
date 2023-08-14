@@ -15,7 +15,7 @@ Info. about the repository.
 
 Here you can find the following:
 
-- **Informed_consent.pdf** -> informations to the participants in the experiment. 
+- **Informed_consent.pdf** -> informations to the participants in the experiment. This document contains basic information about the experiment (basic research information such as duration, conditions of participation, ethical approval reference number, etc.).
 - **Scenario.pdf** -> the scenario in which participants made their decisions. The scenario includes the problem domain and a description of the research process. In this way, the participants in the experiment knew what they had to do or what role they should take. The problem domain referred to "University X", which wanted to set up a new student information system.
 - **data_c_en.pdf** -> data received by the control group (does not include a mapping tool that represents an independent variable). 
 - **data_t_en.pdf** -> data received by the experimental group. 
