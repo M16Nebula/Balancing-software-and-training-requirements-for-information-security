@@ -24,3 +24,4 @@ Here you can find the following:
 - **iSSR_template.pdf** -> template in which participants entered their iSSR decisions. 
 - **iSTR_template.pdf** -> template in which participants entered their iSTR decisions. 
 
+**Note**: Both the experimental group (also referred to as the treatment group in the literature) and the control group all received the same documents, except for the data (more precisely, data_c_en. PDF OR data_t_en.PDF). Data_t_en.PDF contains a mapping tool, while data_c_en-PDF does not.
