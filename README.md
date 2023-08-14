@@ -21,8 +21,9 @@ Here you can find the following:
 - **data_t_en.pdf** -> data received by the experimental group (does include the mapping tool).
 - **Dictionary** -> includes explanations about the terms and concepts used in the research for easier understanding of information security functionalities (e.g., replay attack, OAuth, deserialization, ...). The purpose of the dictionary is to ensure a uniform understanding of the terminology, i.e. that the participants in the experiment are not familiar with the terminology used and that they do not have to search the internet for explanations.
   - **dictionarypart1.pdf** -> part 1 of the dictionary. 
-  - **dictionarypart2.pdf** -> part 2 of the dictionary. 
-- **iSSR_template.pdf** -> template in which participants entered their iSSR decisions. 
-- **iSTR_template.pdf** -> template in which participants entered their iSTR decisions. 
+  - **dictionarypart2.pdf** -> part 2 of the dictionary.
+- **Templates**
+  - **iSSR_template.pdf** -> template in which participants entered their iSSR decisions.   
+  - **iSTR_template.pdf** -> template in which participants entered their iSTR decisions. 
 
 **Note**: Both the experimental group (also referred to as the treatment group in the literature) and the control group all received the same documents, except for the data (more precisely; data_c_en. PDF OR data_t_en.PDF). Data_t_en.PDF contains a mapping tool, while data_c_en-PDF does not.
