@@ -6,7 +6,7 @@ Balancing iSSR and iSTR for information security 💻🔐👨🏻‍💻
 
 The research is published in Computers & Security. Please check here for more informations: 🟢**TODO [add the link when published]**🟢
 
-The repository consists of the following file/folder:
+The repository consists of the following files/folders:
 
 ### [Readme](README.md) file 📜
 Info. about the repository.
