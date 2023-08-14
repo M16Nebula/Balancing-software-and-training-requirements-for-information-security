@@ -22,11 +22,11 @@ Here you can find the following:
 - **Dictionary** -> includes explanations about the terms and concepts used in the research for easier understanding of information security functionalities (e.g., replay attack, OAuth, deserialization, ...). The purpose of the dictionary is to ensure a uniform understanding of the terminology, i.e. that the participants in the experiment are not familiar with the terminology used and that they do not have to search the internet for explanations.
   - **dictionarypart1.pdf** -> part 1 of the dictionary. 
   - **dictionarypart2.pdf** -> part 2 of the dictionary.
-- **Templates**
+- **Templates** -> In this template, the participants of the experiment entered their decisions. For each decision, they had the opportunity to explain why they made that decision ("rationale column").
   - **iSSR_template.pdf** -> template in which participants entered their iSSR decisions. Only a limited number of security functionalities can be implemented:
     - Maximum 2 functionalities will be implemented for sure (must-be).
     - Maximum 2 functionalities will be very likely implemented (should-be).
     - Maximum 2 functionalities will be maybe implemented (could).
-  - **iSTR_template.pdf** -> template in which participants entered their iSTR decisions. Each training focuses on a single focus area (e.g., password management, email use, ...). An individual user can be sent to several trainings. There is room for a maximum of 50 users in all trainings together. For example: 10 users sent to Password management and Information handling training (2×10) and 30 users sent only to the first training (1×30) means that you have filled all the places for training (2×10 + 1×30 = 50). Clearly justify your decisions in a sentence or two.
+  - **iSTR_template.pdf** -> template in which participants entered their iSTR decisions. Each training focuses on a single focus area (e.g., password management, email use, ...). An individual user can be sent to several trainings. There is room for a maximum of 50 users in all trainings together. For example: 10 users sent to Password management and Information handling training (2×10) and 30 users sent only to the first training (1×30) means that all the places are filled for training (2×10 + 1×30 = 50).
 
 **Note**: Both the experimental group (also referred to as the treatment group in the literature) and the control group all received the same documents, except for the data (more precisely; data_c_en. PDF OR data_t_en.PDF). Data_t_en.PDF contains a mapping tool, while data_c_en-PDF does not.
