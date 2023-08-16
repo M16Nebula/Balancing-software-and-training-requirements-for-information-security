@@ -2,7 +2,7 @@
 Balancing iSSR and iSTR for information security 💻🔐👨🏻‍💻
 </h1> 
 
-### Supporting materials used in our experiment. Note that a more detailed description of the research methodology and approach is included in the research paper. This repository contains only the supporting materials used in our experiment.
+### Supporting materials used in our experiment. Note that a more detailed description of the research methodology and approach is included in the research paper. This repository contains only the supporting materials used in our experiment's main task.
 
 The research is published in Computers & Security. Please check here for more informations: 🟢**TODO [add the link when published]**🟢
 
