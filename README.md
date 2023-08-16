@@ -9,7 +9,7 @@ The research is published in Computers & Security. Please check here for more in
 The repository consists of the following files/folders:
 
 ### [Readme](README.md) file 📜
-Info. about the repository.
+Info. about the repository. Here, the materials that the participants used in the experiment's main task are described.
 
 ### [Materials](Materials) folder 📁
 
