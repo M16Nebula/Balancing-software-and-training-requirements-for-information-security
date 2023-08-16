@@ -22,7 +22,7 @@ Here you can find the following:
 - **Dictionary** -> dictionary includes explanations about the terms and concepts used in the research for easier understanding of information security functionalities (e.g., replay attack, OAuth, deserialization, ...). The purpose of the dictionary is to ensure a uniform understanding of the terminology (i.e., that the participants in the experiment are not familiar with the terminology used and that they do not have to search the internet for explanations).
   - **dictionarypart1.pdf** -> part 1 of the dictionary. 
   - **dictionarypart2.pdf** -> part 2 of the dictionary.
-- **Templates** -> In this template, the participants of the experiment entered their decisions. For each decision, they had the opportunity to explain why they made that decision ("rationale column").
+- **Templates** -> in this template, the participants of the experiment entered their decisions. For each decision, they had the opportunity to explain why they made that decision ("rationale column").
   - **iSSR_template.pdf** -> template in which participants entered their iSSR decisions using the MoSCoW method. Only a limited number of security functionalities can be implemented:
     - Maximum 2 functionalities will be implemented for sure (must-be).
     - Maximum 2 functionalities will be very likely implemented (should-be).
