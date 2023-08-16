@@ -32,4 +32,7 @@ Here you can find the following:
 **Note**: Both the experimental group (also referred to as the treatment group in the literature) and the control group all received the same documents, except for the data (more precisely; **data_c_en. PDF OR data_t_en.PDF**). Data_t_en.PDF contains a mapping tool, while data_c_en-PDF does not. 
 
 **Where to find the results in the article?**
+Figure 7 in the paper shows the difference between the experimental and control groups in the experiment.
 
+**SOURCE:** 
+🟢**TODO [add full article citation when published]**🟢
