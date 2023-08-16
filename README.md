@@ -23,7 +23,7 @@ Here you can find the following:
   - **dictionarypart1.pdf** -> part 1 of the dictionary. 
   - **dictionarypart2.pdf** -> part 2 of the dictionary.
 - **Templates** -> In this template, the participants of the experiment entered their decisions. For each decision, they had the opportunity to explain why they made that decision ("rationale column").
-  - **iSSR_template.pdf** -> template in which participants entered their iSSR decisions. Only a limited number of security functionalities can be implemented:
+  - **iSSR_template.pdf** -> template in which participants entered their iSSR decisions using the MoSCoW method. Only a limited number of security functionalities can be implemented:
     - Maximum 2 functionalities will be implemented for sure (must-be).
     - Maximum 2 functionalities will be very likely implemented (should-be).
     - Maximum 2 functionalities will be maybe implemented (could).
