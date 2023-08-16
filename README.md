@@ -37,7 +37,7 @@ The folder contains materials related to the implementation of the experiment's 
 **Note**: Both the experimental group (also referred to as the treatment group in the literature) and the control group all received the same documents, except for the data (more precisely; **data_c_en. PDF OR data_t_en.PDF**). Data_t_en.PDF contains a mapping tool, while data_c_en-PDF does not. 
 
 **Where to find the results in the article?**
-Figure 7 in the paper shows the difference between the experimental and control groups in the experiment. It is the main result of the main task. The main task (iSSR and iSTR solution) was evaluated by evaluators. For a more detailed description of the methodology, see the original article (link above and source below).
+Figure 7 in the paper shows the difference between the experimental and control groups in the experiment. It is the main result of the main task. The main task (iSSR and iSTR solution) was evaluated by evaluators. For a more detailed description of the methodology, see the original article (link above and source below [inside the green circle]).
 
 **SOURCE:** 
 🟢**TODO [add full article citation when published]**🟢
