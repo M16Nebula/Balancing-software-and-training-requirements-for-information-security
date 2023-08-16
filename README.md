@@ -15,7 +15,7 @@ Info. about the repository. Here, the materials that the participants used in th
 
 The folder contains materials related to the implementation of the experiment's main task. Here you can find the following:
 
-- **Informed_consent.pdf** -> informations to the participants in the experiment. This document contains basic information about the experiment (basic research information such as duration, conditions of participation, ethical approval reference number, etc.).
+- **[Informed_consent.pdf](Materials/Informed_consent.pdf)** -> informations to the participants in the experiment. This document contains basic information about the experiment (basic research information such as duration, conditions of participation, ethical approval reference number, etc.).
   
 - **Scenario.pdf** -> the scenario in which participants made their decisions. The scenario includes the problem domain and a description of the research process. In this way, the participants in the experiment knew what they had to do or what role they should take. The problem domain referred to "University X", which wanted to set up a new student information system. Note that only one scenario/problem domain is given. Regardless of whether the participants in the experiment belonged to the control or experimental group, they all worked according to this scenario.
   
