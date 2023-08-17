@@ -9,7 +9,7 @@ The research is published in Computers & Security journal (ISSN 1872-6208). Plea
 The repository consists of the following files/folders:
 
 ### [Readme](README.md) file 📜
-Info. about the repository. Here, the materials that the participants used in the experiment's main task are described.
+Basic informations about the repository. Here, the materials that the participants used in the experiment's main task are described.
 
 ### [Materials](Materials) folder 📁
 
