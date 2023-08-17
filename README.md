@@ -13,7 +13,7 @@ Basic informations about the repository. Here, the materials that the participan
 
 ### [Materials](Materials) folder 📁
 
-The folder contains materials related to the implementation of the experiment's main task. Here you can find the following:
+The folder contains materials related to the implementation of the experiment's main task (iSSR and iSTR prioritization). Here you can find the following:
 
 - **[Informed_consent.pdf](Materials/Informed_consent.pdf)** -> informations to the participants in the experiment. This document contains basic information about the experiment (basic research information such as duration, conditions of participation, ethical approval reference number, etc.).
   
