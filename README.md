@@ -42,8 +42,8 @@ Figure 7 in the paper shows the difference between the experimental and control 
 **SOURCE:** 
 BibTeX: 
 
-@article{FUJS2023,
-  title = {Balancing software and training requirements for information security},
+@article{FUJS2023,<br />
+  title = {Balancing software and training requirements for information security},<br />
   journal = {Computers & Security},
   pages = {103467},
   year = {2023},
