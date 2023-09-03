@@ -4,7 +4,7 @@ Balancing iSSR and iSTR for information security 💻🔐👨🏻‍💻
 
 ### Supporting materials used in our experiment. Note that a more detailed description of the research methodology and approach is included in the research paper. This repository contains only the supporting materials used in our experiment's main task (iSSR and iSTR solution).
 
-The research is published in Computers & Security journal (ISSN 1872-6208). Please check open access paper here for more informations: [[Computers & Security](https://www.sciencedirect.com/science/article/pii/S0167404823003772)]. 
+The research is published in Computers & Security journal (ISSN 1872-6208). Please check open access paper here for more informations: [[Computers & Security](https://www.sciencedirect.com/science/article/pii/S0167404823003772). 
 
 The repository consists of the following files/folders:
 
