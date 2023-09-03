@@ -43,12 +43,12 @@ Figure 7 in the paper shows the difference between the experimental and control 
 BibTeX: 
 
 @article{FUJS2023,
-title = {Balancing software and training requirements for information security},
-journal = {Computers & Security},
-pages = {103467},
-year = {2023},
-issn = {0167-4048},
-doi = {https://doi.org/10.1016/j.cose.2023.103467},
-url = {https://www.sciencedirect.com/science/article/pii/S0167404823003772},
-author = {Damjan Fujs and Simon Vrhovec and Damjan Vavpotič},
+  title = {Balancing software and training requirements for information security},
+  journal = {Computers & Security},
+  pages = {103467},
+  year = {2023},
+  issn = {0167-4048},
+  doi = {https://doi.org/10.1016/j.cose.2023.103467},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167404823003772},
+author = {Damjan Fujs and Simon Vrhovec and Damjan Vavpotič}
 
