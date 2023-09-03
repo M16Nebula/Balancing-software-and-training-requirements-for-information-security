@@ -39,8 +39,8 @@ The folder contains materials related to the implementation of the experiment's 
 **Where to find the results in the article?**
 Figure 7 in the paper shows the difference between the experimental and control groups in the experiment. It is the main result of the main task. The main task (iSSR and iSTR solution) was evaluated by evaluators. For a more detailed description of the methodology, see the original article (link above and source below [inside the green circle]).
 
-**SOURCE:** 
-BibTeX: 
+**SOURCE:** <br />
+BibTeX: <br />
 
 @article{FUJS2023,<br />
   title = {Balancing software and training requirements for information security},<br />
