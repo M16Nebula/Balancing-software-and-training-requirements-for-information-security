@@ -42,7 +42,7 @@ Figure 7 in the paper shows the difference between the experimental and control 
 **SOURCE:** <br />
 BibTeX: <br />
 
-@article{FUJS2023,<br />
+@article{Fujs2023,<br />
   title = {Balancing software and training requirements for information security},<br />
   journal = {Computers & Security},<br />
   pages = {103467},<br />
