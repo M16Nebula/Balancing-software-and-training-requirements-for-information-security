@@ -44,11 +44,11 @@ BibTeX:
 
 @article{FUJS2023,<br />
   title = {Balancing software and training requirements for information security},<br />
-  journal = {Computers & Security},
-  pages = {103467},
-  year = {2023},
-  issn = {0167-4048},
-  doi = {https://doi.org/10.1016/j.cose.2023.103467},
-  url = {https://www.sciencedirect.com/science/article/pii/S0167404823003772},
-author = {Damjan Fujs and Simon Vrhovec and Damjan Vavpotič}
+  journal = {Computers & Security},<br />
+  pages = {103467},<br />
+  year = {2023},<br />
+  issn = {0167-4048},<br />
+  doi = {https://doi.org/10.1016/j.cose.2023.103467},<br />
+  url = {https://www.sciencedirect.com/science/article/pii/S0167404823003772},<br />
+  author = {Damjan Fujs and Simon Vrhovec and Damjan Vavpotič}<br />
 
