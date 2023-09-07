@@ -52,3 +52,6 @@ BibTeX: <br />
   url = {https://www.sciencedirect.com/science/article/pii/S0167404823003772},<br />
   author = {Damjan Fujs and Simon Vrhovec and Damjan Vavpotič}<br />
 
+APA: <br />
+
+Fujs, D., Vrhovec, S., & Vavpotič, D. (2023). Balancing software and training requirements for information security. Computers & Security, 103467.
